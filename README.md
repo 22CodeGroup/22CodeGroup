@@ -1,5 +1,5 @@
 <div align="center">
-  
+�
 # 👋 Hi, I'm Marc
 
 ### SAP ABAP Developer | Software Engineering Student
@@ -13,12 +13,12 @@
 
 ## 🚀 About Me
 
-SAP ABAP Developer with **10 years of enterprise experience** in the automotive industry. After a 7-year break working as an ICU nurse, I'm now returning to software development with renewed passion and a unique perspective combining technical expertise with critical healthcare systems knowledge.
+SAP ABAP Developer with **10+ years of enterprise experience** in the automotive industry. After a 7-year break working as an ICU nurse, I'm now returning to software development with renewed passion and a unique perspective combining technical expertise with critical healthcare systems knowledge.
 
-- 🔭 **Currently working on:** Modern ABAP development with OOP design patterns and clean code practices
+- 🔭 **Currently working on:** Modern ABAP development with OOP design patterns and clean code practices (Greetings to Stephan W. ☺️ )
 - 🎓 **Studying:** Bachelor's degree in Software Development at IU Internationale Hochschule (since October 2025)
-- 💼 **Background:** 10 years SAP ABAP in automotive industry → 7 years intensive care nursing → Back to development
-- 🎵 **Creative outlet:** Producing aggressive Industrial Hard Techno with Ableton Live
+- 💼 **Background:** 10+ years SAP ABAP in automotive industry → 7 years intensive care nursing → Back to development
+- 🎵 **Creative outlet:** Producing aggressive Industrial Hard Techno with Ableton Live + Elektron's
 - ⌨️ **Currently mastering:** Colemak-DH layout on ZSA Moonlander split keyboard
 - 📍 **Location:** Germany
 
