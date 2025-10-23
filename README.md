@@ -4,7 +4,7 @@
 
 ### SAP ABAP Developer | Software Engineering Student
 
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](YOUR_PROFILE_URL)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/22CodeGroup)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22CodeGroup)
 
 </div>
