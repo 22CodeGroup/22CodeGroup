@@ -17,7 +17,7 @@ SAP ABAP Developer with **10+ years of enterprise experience** in the automotive
 
 - 🔭 **Currently working on:** Modern ABAP development with OOP design patterns and clean code practices (Greetings to Stephan W. ☺️ )
 - 🎓 **Studying:** Bachelor's degree in Software Development at IU Internationale Hochschule (since October 2025)
-- 💼 **Background:** 10+ years SAP ABAP in automotive industry → 7 years intensive care nursing → Back to development
+- 💼 **Background:** 10+ years SAP ABAP in automotive industry → 4 years intensive care nursing → Back to development
 - 🎵 **Creative outlet:** Producing aggressive Industrial Hard Techno with Ableton Live + Elektron's
 - ⌨️ **Currently mastering:** Colemak-DH layout on ZSA Moonlander split keyboard
 - 📍 **Location:** Germany
