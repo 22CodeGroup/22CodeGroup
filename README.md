@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Marc
+# 👋 Hi,
 
 ### SAP ABAP Developer
 
