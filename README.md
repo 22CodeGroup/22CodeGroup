@@ -31,10 +31,6 @@ SAP ABAP Developer with **9+ years of enterprise experience** in the automotive 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Currently Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### Future Technologies
 
 **Programming Languages**
@@ -67,7 +63,7 @@ SAP ABAP Developer with **9+ years of enterprise experience** in the automotive 
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP S4](https://img.shields.io/badge/SAP_S4/HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![CDS Views](https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Vrapper/Vim](https://img.shields.io/badge/Vrapper-019733?style=for-the-badge&logo=vim&logoColor=white))
+![Vrapper/Vim](https://img.shields.io/badge/Vrapper-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ### Tools & Platforms
 
@@ -81,11 +77,11 @@ SAP ABAP Developer with **9+ years of enterprise experience** in the automotive 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22CodeGroup&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22CodeGroup&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22CodeGroup&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22CodeGroup&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22CodeGroup&theme=dark&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22CodeGroup&theme=dark&hide_border=true&background=0D1117&count_private=true)
 
 </div>
 
